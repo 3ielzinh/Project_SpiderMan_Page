@@ -9,10 +9,6 @@
 
 # About
 
-## EN
-### In this project, in collaboration with DIO, I developed a page for the Spider-Man multiverse.
-<br>
-
 ## PT-BR
 ### Neste projeto, em colaboração com a DIO, eu desenvolvi uma página do multiverso do Homem-Aranha.
 
